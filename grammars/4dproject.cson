@@ -7,7 +7,7 @@
 'parser': 'tree-sitter-json'
 
 'fileTypes': [
-  '4DForm'
+  '4DProject'
 ]
 
 folds: [
