@@ -4,7 +4,7 @@
 'scopeName': 'source.4dproject'
 'name': '4D Project'
 'type': 'tree-sitter'
-'parser': 'tree-sitter-json'
+'parser': 'tree-sitter-4djson'
 
 'fileTypes': [
   '4DProject'
